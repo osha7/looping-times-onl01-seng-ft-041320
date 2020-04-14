@@ -2,7 +2,7 @@
 
 	
 def using_times(times)
-  #{times}.time do
+  '#{times}'.time do
     puts "Wingardium Leviosa"
 end
 
