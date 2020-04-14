@@ -1,7 +1,7 @@
-
-7 times do
-  puts "Wingardium Leviosa"
+def using_times
+	#your code here
 end
+
 
 
 
